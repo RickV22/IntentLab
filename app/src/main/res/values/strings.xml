@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="inicio">Inicio</string>
+    <string name="bienvenido">Bienvenido…</string>
+    <string name="visitar_web_oficial">Visitar Web Oficial</string>
+    <string name="ver_ubicaci_n">Ver Ubicación</string>
+    <string name="acciones_intents">Acciones (Intents)</string>
+    <string name="config_perfil">Configuración de Perfil</string>
+    <string name="guarda_datastore">Guarda datos con DataStore</string>
+    <string name="escribe_nombre">Escribe tu nombre</string>
+    <string name="guardar_continuar">Guardar y Continuar</string>
+    <string name="bienvenido_nombre">Bienvenido, %1$s</string>
+</resources>
